@@ -20,15 +20,15 @@ struct DetailView: View {
                     Text("4. 본인의 강점: \(person.strength)")
                 }
                 
-                if let etc = person.etc {
-                    Text("6. 기타: \(etc)")
-                }
                 
                 Text("7. 직장: \(person.job)")
 //                if let sns = person.sns {
 //                    Text("5. SNS: \(sns)")
 //                }
 //                
+//                if let etc = person.etc {
+//                    Text("6. 기타: \(etc)")
+//                }
             }
             .padding()
         }
