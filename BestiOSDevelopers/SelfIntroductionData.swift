@@ -377,7 +377,7 @@ let people: [SelfIntroduction] = [
         strength: "피스메이커1",
         sns: "https://jusung.github.io1",
         etc: "화이팅!1",
-        job: "구글 - iOS 개발자1"
+        job: "구글 - iOS 개발자1 - hello"
     ),
     SelfIntroduction(
         name: "고재현",
