@@ -374,6 +374,10 @@ let people: [SelfIntroduction] = [
         trainingPurpose: "iOS 강사가 되기위해 참여 (수정됨)",
         hobby: "글쓰기, 독서 (수정됨)",
         mbti: "ENTP (수정됨)",
+        strength: "피스메이커 (수정됨)",
+        sns: "https://jusung.github.io (수정됨)",
+        etc: "화이팅! (수정됨)",
+        job: "구글 - iOS 개발자 (수정됨)"
     ),
     SelfIntroduction(
         name: "고재현",
